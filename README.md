@@ -5,7 +5,6 @@ Para iniciar el proyecto necesitarás:
 #### Instalar:
 		pip install openai
 		pip install "typer[all]"
-		pip install rich
 		
 
 #### Generar un archivo config.py
